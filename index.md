@@ -12,6 +12,9 @@ A [Bootstrap 4](https://getbootstrap.com/) template project for [Github Pages](h
 * Full support of Bootstrap's JavaScript plugins.
 * Supports all features of Github Pages and Jekyll.
 
+Here is a link:
+ 
+ [Link](/Linux_Guide/) and more links
 ## Setup Guide
 
 ### Create a repository from this template
